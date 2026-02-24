@@ -15,4 +15,4 @@
 - React
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psingh100298&show_icons=true)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=psingh100298&show_icons=true&theme=radical)
