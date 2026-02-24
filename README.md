@@ -14,4 +14,4 @@
 - JavaScript
 - React
 
-![Pradeep's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=psingh100298&show_icons=true&theme=radical)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=psingh100298&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
